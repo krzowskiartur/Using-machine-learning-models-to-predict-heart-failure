@@ -1,4 +1,5 @@
-# Engineering work
+# Using machine learning models to predict heart failure
+
 <br> <br>
 This study compares the effectiveness of machine learning models, specifically Random Forests, with a Multilayer Perceptron (MLP) in predicting mortality among patients affected by heart failure. The research was conducted using a database of 299 patients, characterized by class imbalance (32% deaths and 68% survivors). The main challenges were the small dataset size, class imbalance, and the elimination of data leakage caused by one of the features (time).
 <br> <br>
